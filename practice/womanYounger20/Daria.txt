@@ -1,0 +1,1 @@
+{name:Daria, gender:female, age:19}
